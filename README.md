@@ -1,5 +1,5 @@
 # GCache
-Simple in memory generic cache. No dependency.
+Simple in memory generic cache with TTL. No dependency.
 
 Usage:  
 ```go
